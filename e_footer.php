@@ -33,9 +33,9 @@ if((e107::wysiwyg(null, true) === 'tinymce5' && check_class($pref['post_html']))
 	//	e107::js('footer', 'https://cdnjs.cloudflare.com/ajax/libs/tinymce/4.7.9/tinymce.min.js');
 
 	//	e107::js('footer', 'https://cdnjs.cloudflare.com/ajax/libs/tinymce/6.8.2/tinymce.min.js');
-	e107::js('footer', 'https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js');
+	//e107::js('footer', 'https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js');
 	
-	//	e107::js('tinymce5', 'tinymce/tinymce.min.js');
+		e107::js('tinymce5', 'tinymce/tinymce.min.js');
 
 	//	e107::js('footer', "//cdn.tinymce.com/4/tinymce.min.js");
 

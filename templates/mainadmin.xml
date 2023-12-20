@@ -2,8 +2,8 @@
 <tinymce name="Main Admin" version="6">
 	<plugins>advlist autosave lists link image charmap preview anchor pagebreak searchreplace wordcount visualchars code fullscreen insertdatetime media nonbreaking table directionality emoticons template</plugins>
 	<menubar>edit view format insert table tools</menubar>
-	<toolbar1>undo redo | removeformat | styles fontfamily fontsize | bold italic underline subscript superscript forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent emoticons | link image  template | media | e107-image e107-video e107-glyph smileys | preview | contextmenu | code | fullscreen help</toolbar1>
-	<external_plugins>e107</external_plugins>
+	<toolbar1>undo redo | removeformat | styles fontfamily fontsize | bold italic underline subscript superscript forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent emoticons | link image  template | media | e107-image e107-video e107-glyph smileys | preview | contextmenu | code | fullscreen help loremipsum</toolbar1>
+	<external_plugins>e107 loremipsum</external_plugins>
 	<image_advtab>true</image_advtab>
 	<media_alt_source>false</media_alt_source>
 	<media_dimensions>true</media_dimensions>
